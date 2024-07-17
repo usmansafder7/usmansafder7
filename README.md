@@ -16,7 +16,7 @@ I'm a passionate computer scientist and full stack web developer specializing in
 
 - 🔭 **Currently working on:** Developing dynamic web applications, and integrating scalable backend systems.
 - 🌱 **Learning:** The latest updates in React and Next.js ecosystems.
-- 👯 **Looking to collaborate on:** Full stack development with React and Next.js, backend development with Express, cloud functions with Firebase, and machine learning applications.
+- 👯 **Looking to collaborate on:** Full stack development, backend development, cloud functions, and machine learning applications.
 - 💬 **Ask me about:** Full stack web development, and machine learning applications.
 - 📚 **Publishing:** Regularly contribute to blogs and forums on web development best practices and ML research.
 
